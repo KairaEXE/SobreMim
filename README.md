@@ -10,24 +10,8 @@ Trabalho na Sanasa como estagiário na area de Telecomunicações, porém, procu
 - 
 ## 🛠️ Stack
 
-**Backend**
-- Python
-- FastAPI
-
-**Banco de dados**
-- PostgreSQL
-- SQLite
-
-**Ferramentas**
-- Git & GitHub
-- Docker (básico)
-- Linux (Iniciante)
-
-**Dados / Lógica**
-- Grafos (NetworkX)
-- Manipulação de dados (Pandas)
-
-**Boas práticas**
-- APIs REST
-- Estrutura em camadas
-- Testes básicos
+- Backend: Python, FastAPI  
+- Banco de dados: PostgreSQL, SQLite  
+- Ferramentas: Git, Docker, Linux  
+- Dados: Pandas, NetworkX  
+- Conceitos: APIs REST, arquitetura em camadas
